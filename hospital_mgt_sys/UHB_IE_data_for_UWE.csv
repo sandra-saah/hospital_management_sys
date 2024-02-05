@@ -1,0 +1,462 @@
+UWE_NHS_Number,Admission Date,Discharge Died,Diagnosis Primary,Diagnosis Primary Code,Procedure Primary Date,Procedure Primary,Procedure Primary Code
+4002018947,25/03/2018,No,Acute and subacute infective endocarditis,I330,27/03/2018,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4009816768,09/04/2017,No,Acute and subacute infective endocarditis,I330,19/04/2017,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4023886770,27/06/2018,No,Acute and subacute infective endocarditis,I330,19/07/2018,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4026047989,16/01/2019,No,Acute and subacute infective endocarditis,I330,18/01/2019,COMPUTED TOMOGRAPHY OF HEAD                                 ,U051
+4042632859,07/09/2017,No,Acute and subacute infective endocarditis,I330,08/09/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4042632859,07/09/2017,No,Acute and subacute infective endocarditis,I330,26/09/2017,CORONARY ARTERIOGRAPHY NEC                                  ,K636
+4042632859,07/09/2017,No,Acute and subacute infective endocarditis,I330,27/09/2017,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4043017080,13/09/2018,No,Acute and subacute infective endocarditis,I330,17/09/2018,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4043233891,13/02/2017,No,Acute and subacute infective endocarditis,I330,15/02/2017,COMPUTED TOMOGRAPHY OF CHEST                                ,U071
+4045245271,30/12/2018,No,Acute and subacute infective endocarditis,I330,07/01/2019,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4045245271,30/12/2018,No,Acute and subacute infective endocarditis,I330,11/01/2019,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4045245271,30/12/2018,No,Acute and subacute infective endocarditis,I330,10/01/2019,CORONARY ARTERIOGRAPHY NEC                                  ,K636
+4065634222,16/07/2018,No,Acute and subacute infective endocarditis,I330,18/07/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4089848989,15/11/2019,No,Acute and subacute infective endocarditis,I330,04/12/2019,AORTIC ROOT REPLACEMENT NEC                                 ,K335
+4109360432,07/07/2020,Yes,Acute and subacute infective endocarditis,I330,21/08/2020,THERAPEUTIC TRANSLUMINAL OPERATIONS ON VALVE OF HEART OTHER SPECIFIED,K358
+4120788888,24/06/2020,Yes,Acute and subacute infective endocarditis,I330,25/06/2020,CORONARY ARTERIOGRAPHY NEC                                  ,K636
+4121034426,28/12/2016,Yes,Acute and subacute infective endocarditis,I330,01/01/2017,URETHRAL CATHETERISATION OF BLADDER UNSPECIFIED,M479
+4140095311,02/09/2018,No,Acute and subacute infective endocarditis,I330,13/09/2018,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4146186049,27/09/2018,No,Acute and subacute infective endocarditis,I330,30/09/2018,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4146186049,27/09/2018,No,Acute and subacute infective endocarditis,I330,08/10/2018,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4166146002,30/03/2017,No,Acute and subacute infective endocarditis,I330,07/04/2017,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4166146002,30/03/2017,No,Acute and subacute infective endocarditis,I330,27/04/2017,COMPUTED TOMOGRAPHY OF HEAD                                 ,U051
+4169652812,25/11/2019,No,Acute and subacute infective endocarditis,I330,28/11/2019,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4187590904,22/07/2020,No,Acute and subacute infective endocarditis,I330,05/08/2020,COMPUTED TOMOGRAPHY NEC                                     ,U212
+4200982025,26/02/2019,No,Acute and subacute infective endocarditis,I330,09/03/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4200982025,26/02/2019,No,Acute and subacute infective endocarditis,I330,13/03/2019,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+4201895069,17/07/2019,No,Acute and subacute infective endocarditis,I330,29/07/2019,ANASTOMOSIS OF MAMMARY ARTERY TO LEFT ANTERIOR DESCENDING CO,K453
+4227393705,22/09/2018,Yes,Acute and subacute infective endocarditis,I330,10/10/2018,NON-INVASIVE VENTILATION NEC                                ,E852
+4227393705,22/09/2018,Yes,Acute and subacute infective endocarditis,I330,23/09/2018,CORONARY ARTERIOGRAPHY NEC                                  ,K636
+4227393705,22/09/2018,Yes,Acute and subacute infective endocarditis,I330,28/09/2018,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4288780137,07/06/2018,No,Acute and subacute infective endocarditis,I330,09/06/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4288780137,07/06/2018,No,Acute and subacute infective endocarditis,I330,14/06/2018,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+4301037814,21/11/2017,No,Acute and subacute infective endocarditis,I330,27/11/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4301037814,19/12/2017,No,Acute and subacute infective endocarditis,I330,20/12/2017,CATHETERISATION OF COMBINATION OF RIGHT AND LEFT SIDE OF HEA,K651
+4301037814,18/05/2018,No,Acute and subacute infective endocarditis,I330,23/05/2018,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4301359315,11/08/2019,No,Acute and subacute infective endocarditis,I330,15/08/2019,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4302452254,19/08/2018,No,Acute and subacute infective endocarditis,I330,22/08/2018,HAEMOFILTRATION                                             ,X404
+4309967365,07/07/2019,No,Acute and subacute infective endocarditis,I330,19/07/2019,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4309967365,07/07/2019,No,Acute and subacute infective endocarditis,I330,12/07/2019,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4322653115,05/02/2019,No,Acute and subacute infective endocarditis,I330,28/02/2019,DRAINAGE OF LESION OF SKIN NEC                              ,S472
+4322653115,05/02/2019,No,Acute and subacute infective endocarditis,I330,08/02/2019,REPLACEMENT OF ANEURYSMAL SEGMENT OF THORACIC AORTA BY ANAST,L192
+4322653115,05/02/2019,No,Acute and subacute infective endocarditis,I330,14/02/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4322744377,12/03/2018,Yes,Acute and subacute infective endocarditis,I330,19/03/2018,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4322744377,12/03/2018,Yes,Acute and subacute infective endocarditis,I330,26/03/2018,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4381050038,10/01/2017,No,Acute and subacute infective endocarditis,I330,12/01/2017,COMPUTED TOMOGRAPHY OF HEAD                                 ,U051
+4381050038,10/01/2017,No,Acute and subacute infective endocarditis,I330,12/01/2017,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+4401266896,01/08/2019,No,Acute and subacute infective endocarditis,I330,05/08/2019,TRICUSPID VALVE REPAIR NEC                                  ,K276
+4401266896,01/08/2019,No,Acute and subacute infective endocarditis,I330,13/08/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4402653127,03/09/2020,No,Acute and subacute infective endocarditis,I330,27/10/2020,IMPLANTATION CARDIOVERTER DEFIB USING THREE ELECTRODE LEADS ,K596
+4423386635,21/10/2019,No,Acute and subacute infective endocarditis,I330,05/11/2019,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4423386635,21/10/2019,No,Acute and subacute infective endocarditis,I330,13/12/2019,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4430655956,05/09/2020,No,Acute and subacute infective endocarditis,I330,06/09/2020,COMPUTED TOMOGRAPHY NEC                                     ,U212
+4430655956,07/11/2020,No,Acute and subacute infective endocarditis,I330,09/11/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4440194854,11/07/2018,No,Acute and subacute infective endocarditis,I330,18/07/2018,CORONARY ARTERIOGRAPHY NEC                                  ,K636
+4440194854,11/07/2018,No,Acute and subacute infective endocarditis,I330,17/07/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4440194854,11/07/2018,No,Acute and subacute infective endocarditis,I330,18/07/2018,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4448963749,27/05/2018,Yes,Acute and subacute infective endocarditis,I330,28/05/2018,MITRAL VALVE REPAIR NEC                                     ,K255
+4460297322,15/06/2020,No,Acute and subacute infective endocarditis,I330,22/06/2020,CORONARY ARTERIOGRAPHY NEC                                  ,K636
+4460297322,15/06/2020,No,Acute and subacute infective endocarditis,I330,01/07/2020,MITRAL VALVE REPAIR NEC                                     ,K255
+4461451438,17/06/2020,No,Acute and subacute infective endocarditis,I330,19/06/2020,REPLACEMENT OF ANEURYSMAL SEGMENT OF ASCENDING AORTA BY ANAS,L191
+4466422056,23/02/2017,No,Acute and subacute infective endocarditis,I330,27/02/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4466422056,23/02/2017,No,Acute and subacute infective endocarditis,I330,28/02/2017,REVISION OF PLASTIC REPAIR OF AORTIC VALVE                  ,K302
+4468015016,01/09/2019,No,Acute and subacute infective endocarditis,I330,09/09/2019,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4468025793,21/12/2020,No,Acute and subacute infective endocarditis,I330,24/12/2020,TRICUSPID VALVE REPAIR NEC                                  ,K276
+4468025793,21/12/2020,No,Acute and subacute infective endocarditis,I330,11/01/2021,IMPLANTATION OF SUBCUTANEOUS CARDIOVERTER DEFIBRILLATOR     ,K721
+4469042707,07/07/2018,No,Acute and subacute infective endocarditis,I330,04/08/2018,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4469042707,07/07/2018,No,Acute and subacute infective endocarditis,I330,16/08/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4469042707,07/07/2018,No,Acute and subacute infective endocarditis,I330,17/08/2018,DRAINAGE OF PLEURAL CAVITY NEC                              ,T122
+4469042707,07/07/2018,No,Acute and subacute infective endocarditis,I330,01/09/2018,IMAGE CONTROLLED PERC DRAINAGE LESION ABDOMINAL CAVITY NEC  ,T454
+4480573015,02/11/2020,No,Acute and subacute infective endocarditis,I330,12/11/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4480573015,02/11/2020,No,Acute and subacute infective endocarditis,I330,16/11/2020,ANASTOMOSIS OF MAMMARY ARTERY TO LEFT ANTERIOR DESCENDING CO,K453
+4484166066,01/10/2020,No,Acute and subacute infective endocarditis,I330,04/10/2020,MITRAL VALVE REPAIR NEC                                     ,K255
+4502894094,22/05/2018,No,Acute and subacute infective endocarditis,I330,07/06/2018,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4502894094,22/05/2018,No,Acute and subacute infective endocarditis,I330,18/06/2018,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4502894094,22/05/2018,No,Acute and subacute infective endocarditis,I330,23/05/2018,CORONARY ARTERIOGRAPHY NEC                                  ,K636
+4502894094,22/05/2018,No,Acute and subacute infective endocarditis,I330,23/06/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4505837010,26/09/2018,No,Acute and subacute infective endocarditis,I330,24/10/2018,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+4507289083,27/01/2020,No,Acute and subacute infective endocarditis,I330,31/01/2020,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4508432615,21/04/2017,No,Acute and subacute infective endocarditis,I330,24/04/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4508432615,21/04/2017,No,Acute and subacute infective endocarditis,I330,26/04/2017,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4523918922,29/07/2020,No,Acute and subacute infective endocarditis,I330,31/08/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4523918922,29/07/2020,No,Acute and subacute infective endocarditis,I330,12/08/2020,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4524011432,30/12/2016,No,Acute and subacute infective endocarditis,I330,01/01/2017,INVASIVE VENTILATION                                        ,E851
+4524011432,30/12/2016,No,Acute and subacute infective endocarditis,I330,01/01/2017,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+4524011432,30/12/2016,No,Acute and subacute infective endocarditis,I330,16/01/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4524011432,30/12/2016,No,Acute and subacute infective endocarditis,I330,30/01/2017,REMOVAL OF INTRAVENOUS CARDIAC PACEMAKER SYSTEM             ,K604
+4524011432,30/12/2016,No,Acute and subacute infective endocarditis,I330,06/02/2017,AORTIC ROOT REPLACEMENT NEC                                 ,K335
+4525441236,02/03/2018,No,Acute and subacute infective endocarditis,I330,06/03/2018,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4541182576,16/07/2017,No,Acute and subacute infective endocarditis,I330,20/07/2017,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4541182576,16/07/2017,No,Acute and subacute infective endocarditis,I330,17/07/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4541182576,16/07/2017,No,Acute and subacute infective endocarditis,I330,28/07/2017,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4541221644,20/09/2020,No,Acute and subacute infective endocarditis,I330,22/09/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4541221644,20/09/2020,No,Acute and subacute infective endocarditis,I330,23/09/2020,MITRAL VALVE REPAIR NEC                                     ,K255
+4541371212,24/01/2018,No,Acute and subacute infective endocarditis,I330,25/01/2018,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+4541528200,06/01/2020,No,Acute and subacute infective endocarditis,I330,08/01/2020,MITRAL VALVE REPAIR NEC                                     ,K255
+4542598024,17/03/2020,No,Acute and subacute infective endocarditis,I330,25/03/2020,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+4544488854,06/10/2018,No,Acute and subacute infective endocarditis,I330,03/11/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4560413200,06/08/2020,No,Acute and subacute infective endocarditis,I330,13/08/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4560413200,06/08/2020,No,Acute and subacute infective endocarditis,I330,25/08/2020,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4560792422,10/09/2018,No,Acute and subacute infective endocarditis,I330,12/09/2018,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4563976799,06/08/2019,No,Acute and subacute infective endocarditis,I330,09/08/2019,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4563976799,06/08/2019,No,Acute and subacute infective endocarditis,I330,12/08/2019,REVISION OF PLASTIC REPAIR OF AORTIC VALVE                  ,K302
+4564274798,28/09/2020,No,Acute and subacute infective endocarditis,I330,01/10/2020,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4581041709,01/05/2017,No,Acute and subacute infective endocarditis,I330,10/05/2017,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4582533160,05/08/2018,No,Acute and subacute infective endocarditis,I330,15/08/2018,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4582533160,05/08/2018,No,Acute and subacute infective endocarditis,I330,13/08/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4584366172,29/06/2017,No,Acute and subacute infective endocarditis,I330,03/07/2017,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4584445169,24/12/2020,No,Acute and subacute infective endocarditis,I330,05/01/2021,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4584445169,24/12/2020,No,Acute and subacute infective endocarditis,I330,29/12/2020,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4584480819,13/02/2017,No,Acute and subacute infective endocarditis,I330,20/02/2017,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4584595379,20/06/2017,No,Acute and subacute infective endocarditis,I330,23/06/2017,COMPUTED TOMOGRAPHY NEC                                     ,U212
+4584634916,14/02/2019,No,Acute and subacute infective endocarditis,I330,18/02/2019,ANASTOMOSIS OF MAMMARY ARTERY TO LEFT ANTERIOR DESCENDING CO,K453
+4584634916,14/02/2019,No,Acute and subacute infective endocarditis,I330,22/02/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4584647519,18/01/2017,No,Acute and subacute infective endocarditis,I330,14/02/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4584692859,11/04/2017,No,Acute and subacute infective endocarditis,I330,05/05/2017,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+4584692859,11/04/2017,No,Acute and subacute infective endocarditis,I330,21/04/2017,CORONARY ARTERIOGRAPHY USING TWO CATHETERS                  ,K634
+4584971683,24/08/2020,No,Acute and subacute infective endocarditis,I330,01/09/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4584971683,24/08/2020,No,Acute and subacute infective endocarditis,I330,14/09/2020,AORTIC ROOT REPLACEMENT NEC                                 ,K335
+4584971683,10/02/2021,No,Acute and subacute infective endocarditis,I330,16/02/2021,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4584971683,10/02/2021,No,Acute and subacute infective endocarditis,I330,29/03/2021,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4585164956,11/12/2017,No,Acute and subacute infective endocarditis,I330,10/01/2018,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4589043053,28/10/2020,Yes,Acute and subacute infective endocarditis,I330,29/10/2020,OPERATIONS ON AORTIC ROOT OTHER SPECIFIED,K338
+4589158470,25/01/2018,Yes,Acute and subacute infective endocarditis,I330,15/02/2018,INVASIVE VENTILATION                                        ,E851
+4589255080,30/04/2020,No,Acute and subacute infective endocarditis,I330,05/05/2020,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4600312000,15/03/2021,No,Acute and subacute infective endocarditis,I330,17/03/2021,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4600324122,24/09/2018,No,Acute and subacute infective endocarditis,I330,11/10/2018,COMPUTED TOMOGRAPHY OF CHEST                                ,U071
+4600324122,24/09/2018,No,Acute and subacute infective endocarditis,I330,04/10/2018,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4600509440,29/04/2020,No,Acute and subacute infective endocarditis,I330,01/05/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4600509440,29/04/2020,No,Acute and subacute infective endocarditis,I330,09/05/2020,DRESSING OF SKIN USING VACUUM ASSISTED CLOSURE DEVICE NEC   ,S577
+4600573904,11/09/2018,No,Acute and subacute infective endocarditis,I330,19/09/2018,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+4600573904,22/01/2019,No,Acute and subacute infective endocarditis,I330,27/02/2019,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4600573904,22/01/2019,No,Acute and subacute infective endocarditis,I330,29/01/2019,AORTIC ROOT REPLACEMENT USING HOMOGRAFT                     ,K333
+4600609305,19/02/2021,No,Acute and subacute infective endocarditis,I330,20/02/2021,COMPUTED TOMOGRAPHY NEC                                     ,U212
+4600609305,19/02/2021,No,Acute and subacute infective endocarditis,I330,22/02/2021,REMOVAL OF CARDIOVERTER DEFIBRILLATOR                       ,K595
+4600621763,10/11/2018,No,Acute and subacute infective endocarditis,I330,11/11/2018,COMPUTED TOMOGRAPHY OF HEAD                                 ,U051
+4600621763,10/11/2018,No,Acute and subacute infective endocarditis,I330,17/11/2018,COMPUTED TOMOGRAPHY OF HEAD                                 ,U051
+4600621763,10/11/2018,No,Acute and subacute infective endocarditis,I330,23/11/2018,IMPLANT. OF INTRAV. SINGLE CHAMBER CARDIAC PACEMAKER SYSTEM ,K605
+4600621763,10/11/2018,No,Acute and subacute infective endocarditis,I330,12/11/2018,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4600621763,10/11/2018,No,Acute and subacute infective endocarditis,I330,26/11/2018,HAEMOFILTRATION                                             ,X404
+4600764742,26/10/2020,No,Acute and subacute infective endocarditis,I330,27/10/2020,CORONARY ARTERIOGRAPHY NEC                                  ,K636
+4600764742,26/10/2020,No,Acute and subacute infective endocarditis,I330,28/10/2020,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4601083207,03/10/2018,No,Acute and subacute infective endocarditis,I330,10/10/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4601953573,19/07/2017,No,Acute and subacute infective endocarditis,I330,21/07/2017,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4628080341,06/08/2020,No,Acute and subacute infective endocarditis,I330,10/08/2020,MITRAL VALVE REPAIR NEC                                     ,K255
+4628699813,15/10/2020,Yes,Acute and subacute infective endocarditis,I330,18/10/2020,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4662313059,08/08/2020,Yes,Acute and subacute infective endocarditis,I330,06/09/2020,COMPUTED TOMOGRAPHY OF HEAD                                 ,U051
+4687163239,21/06/2019,No,Acute and subacute infective endocarditis,I330,23/06/2019,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+4720535023,01/01/2019,No,Acute and subacute infective endocarditis,I330,14/03/2019,MAGNETIC RESONANCE IMAGING OF HEAD                          ,U052
+4720900995,08/01/2020,No,Acute and subacute infective endocarditis,I330,09/01/2020,REMOVAL OF INTRAVENOUS CARDIAC PACEMAKER SYSTEM             ,K604
+4721073503,14/06/2018,No,Acute and subacute infective endocarditis,I330,19/07/2018,BIOPSY OF LESION OF SKIN OF HEAD OR NECK NEC                ,S151
+4721073503,14/06/2018,No,Acute and subacute infective endocarditis,I330,25/07/2018,REHABILITATION FOR OTHER DISORDERS OTHER SPECIFIED,U548
+4721101973,30/04/2018,No,Acute and subacute infective endocarditis,I330,13/06/2018,REMOVAL OF INTRAVENOUS CARDIAC PACEMAKER SYSTEM             ,K604
+4721103534,25/07/2020,No,Acute and subacute infective endocarditis,I330,21/08/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4721143598,08/11/2020,No,Acute and subacute infective endocarditis,I330,09/11/2020,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4721556520,20/12/2016,No,Acute and subacute infective endocarditis,I330,03/01/2017,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4721556520,20/12/2016,No,Acute and subacute infective endocarditis,I330,19/01/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4721625627,26/06/2018,Yes,Acute and subacute infective endocarditis,I330,04/07/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4721836458,04/12/2020,No,Acute and subacute infective endocarditis,I330,19/01/2021,REHABILITATION FOR OTHER DISORDERS UNSPECIFIED,U549
+4722387590,22/06/2019,No,Acute and subacute infective endocarditis,I330,18/07/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4722427856,26/01/2020,No,Acute and subacute infective endocarditis,I330,28/01/2020,COMPUTED TOMOGRAPHY OF HEAD                                 ,U051
+4722427856,26/01/2020,No,Acute and subacute infective endocarditis,I330,05/02/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4722427856,26/01/2020,No,Acute and subacute infective endocarditis,I330,07/02/2020,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4722464832,26/01/2018,No,Acute and subacute infective endocarditis,I330,16/03/2018,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4722464832,15/07/2018,No,Acute and subacute infective endocarditis,I330,18/07/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4722507914,19/02/2021,No,Acute and subacute infective endocarditis,I330,09/03/2021,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4722507914,19/02/2021,No,Acute and subacute infective endocarditis,I330,01/03/2021,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4722557137,06/01/2018,No,Acute and subacute infective endocarditis,I330,08/01/2018,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4722557137,06/01/2018,No,Acute and subacute infective endocarditis,I330,08/01/2018,REOPENING OF CHEST AND RE-EXPLOR OF INTRATHOR OPER SITE NE  ,T033
+4725460207,20/02/2018,No,Acute and subacute infective endocarditis,I330,13/03/2018,REMOVAL OF INTRAVENOUS CARDIAC PACEMAKER SYSTEM             ,K604
+4725460207,20/02/2018,No,Acute and subacute infective endocarditis,I330,22/02/2018,IMPLANT. OF INTRAV. SINGLE CHAMBER CARDIAC PACEMAKER SYSTEM ,K605
+4725467131,15/06/2018,No,Acute and subacute infective endocarditis,I330,15/08/2018,IMPLANTATION OF CARDIOVERTER DEFIBRILLATOR USING TWO ELECTRO,K592
+4725619616,31/01/2021,Yes,Acute and subacute infective endocarditis,I330,04/02/2021,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4725846930,10/04/2019,No,Acute and subacute infective endocarditis,I330,13/04/2019,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+4725846930,10/04/2019,No,Acute and subacute infective endocarditis,I330,25/04/2019,FIBREOPTIC ENDOSCOPIC CAUTERISATION OF LESION OF UPPER GASTR,G433
+4725846930,10/04/2019,No,Acute and subacute infective endocarditis,I330,06/05/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4742234522,08/05/2019,No,Acute and subacute infective endocarditis,I330,13/05/2019,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4749639590,26/05/2020,No,Acute and subacute infective endocarditis,I330,20/06/2020,COMPUTED TOMOGRAPHY NEC                                     ,U212
+4749639590,26/05/2020,No,Acute and subacute infective endocarditis,I330,03/06/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4760823771,31/07/2018,No,Acute and subacute infective endocarditis,I330,19/09/2018,REHABILITATION FOR OTHER DISORDERS UNSPECIFIED,U549
+4763465008,09/01/2019,No,Acute and subacute infective endocarditis,I330,11/01/2019,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4763465008,09/01/2019,No,Acute and subacute infective endocarditis,I330,16/01/2019,COMPUTED TOMOGRAPHY OF CHEST                                ,U071
+4763465008,09/01/2019,No,Acute and subacute infective endocarditis,I330,18/01/2019,MITRAL VALVE REPAIR NEC                                     ,K255
+4764533479,28/12/2020,No,Acute and subacute infective endocarditis,I330,08/01/2021,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4764533479,28/12/2020,No,Acute and subacute infective endocarditis,I330,31/12/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4769235805,18/06/2018,No,Acute and subacute infective endocarditis,I330,20/06/2018,MITRAL VALVE REPAIR NEC                                     ,K255
+4780495799,01/05/2019,No,Acute and subacute infective endocarditis,I330,02/05/2019,COMPUTED TOMOGRAPHY OF CHEST                                ,U071
+4780495799,01/05/2019,No,Acute and subacute infective endocarditis,I330,03/05/2019,AORTIC ROOT REPLACEMENT USING MECHANICAL PROSTHESIS         ,K334
+4780616216,08/01/2020,No,Acute and subacute infective endocarditis,I330,12/01/2020,COMPUTED TOMOGRAPHY NEC                                     ,U212
+4780644554,04/05/2019,No,Acute and subacute infective endocarditis,I330,05/06/2019,COMPUTED TOMOGRAPHY OF HEAD                                 ,U051
+4780644554,04/05/2019,No,Acute and subacute infective endocarditis,I330,10/06/2019,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4780644554,04/05/2019,No,Acute and subacute infective endocarditis,I330,19/05/2019,COMPUTED TOMOGRAPHY NEC                                     ,U212
+4780644554,04/05/2019,No,Acute and subacute infective endocarditis,I330,10/05/2019,INSERTION OF CENTRAL VENOUS CATHETER NEC                    ,L912
+4780711413,09/12/2019,No,Acute and subacute infective endocarditis,I330,13/12/2019,AORTIC VALVE REPAIR NEC                                     ,K265
+4780711413,09/12/2019,No,Acute and subacute infective endocarditis,I330,11/12/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4780711413,09/12/2019,No,Acute and subacute infective endocarditis,I330,12/12/2019,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4781073801,14/09/2020,No,Acute and subacute infective endocarditis,I330,28/09/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4781157851,26/04/2017,No,Acute and subacute infective endocarditis,I330,04/05/2017,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4781157851,26/04/2017,No,Acute and subacute infective endocarditis,I330,15/05/2017,REMOVAL OF CENTRAL VENOUS CATHETER                          ,L914
+4781157851,26/04/2017,No,Acute and subacute infective endocarditis,I330,11/05/2017,COMPUTED TOMOGRAPHY OF CHEST                                ,U071
+4781157851,26/04/2017,No,Acute and subacute infective endocarditis,I330,27/04/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4781845378,25/11/2019,No,Acute and subacute infective endocarditis,I330,26/11/2019,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+4782381957,01/07/2020,No,Acute and subacute infective endocarditis,I330,03/07/2020,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4784499009,15/08/2018,No,Acute and subacute infective endocarditis,I330,17/08/2018,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4784499009,15/08/2018,No,Acute and subacute infective endocarditis,I330,21/08/2018,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4784523301,20/11/2017,No,Acute and subacute infective endocarditis,I330,23/11/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4784523301,20/11/2017,No,Acute and subacute infective endocarditis,I330,08/12/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4786003817,02/02/2021,No,Acute and subacute infective endocarditis,I330,03/02/2021,COMPUTED TOMOGRAPHY NEC                                     ,U212
+4786003817,02/02/2021,No,Acute and subacute infective endocarditis,I330,04/02/2021,ALLOGRAFT REPLACEMENT OF PULMONARY VALVE                    ,K281
+4787815997,06/11/2016,No,Acute and subacute infective endocarditis,I330,13/01/2017,IMPLANTATION OF SUBCUTANEOUS CARDIOVERTER DEFIBRILLATOR     ,K721
+4789396316,08/06/2020,No,Acute and subacute infective endocarditis,I330,11/06/2020,MAGNETIC RESONANCE IMAGING OF HEAD                          ,U052
+4804297937,12/02/2020,No,Acute and subacute infective endocarditis,I330,09/03/2020,REMOVAL OF CARDIOVERTER DEFIBRILLATOR                       ,K595
+4804297937,12/02/2020,No,Acute and subacute infective endocarditis,I330,17/02/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4808123952,08/02/2018,No,Acute and subacute infective endocarditis,I330,09/02/2018,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4808123952,08/02/2018,No,Acute and subacute infective endocarditis,I330,15/02/2018,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4809492226,08/01/2021,Yes,Acute and subacute infective endocarditis,I330,10/01/2021,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4809492226,08/01/2021,Yes,Acute and subacute infective endocarditis,I330,10/01/2021,CORONARY ARTERIOGRAPHY NEC                                  ,K636
+4809492226,08/01/2021,Yes,Acute and subacute infective endocarditis,I330,10/01/2021,EMERGENCY REPLACEMENT OF ANEURYSMAL SEGMENT OF ASCENDING AOR,L181
+4824779972,12/03/2019,No,Acute and subacute infective endocarditis,I330,25/04/2019,IMPLANTATION CARDIOVERTER DEFIB USING THREE ELECTRODE LEADS ,K596
+4825044868,14/03/2018,No,Acute and subacute infective endocarditis,I330,16/03/2018,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4843929801,30/07/2018,No,Acute and subacute infective endocarditis,I330,02/08/2018,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4843929801,30/07/2018,No,Acute and subacute infective endocarditis,I330,03/08/2018,MITRAL VALVE REPAIR NEC                                     ,K255
+4846631803,17/02/2017,No,Acute and subacute infective endocarditis,I330,20/02/2017,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+4846636872,04/03/2017,No,Acute and subacute infective endocarditis,I330,05/03/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4846636872,04/03/2017,No,Acute and subacute infective endocarditis,I330,09/03/2017,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4865343613,29/11/2017,No,Acute and subacute infective endocarditis,I330,01/12/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4867356898,23/12/2020,No,Acute and subacute infective endocarditis,I330,04/01/2021,MITRAL VALVE REPAIR NEC                                     ,K255
+4867356898,23/12/2020,No,Acute and subacute infective endocarditis,I330,15/01/2021,DIAGNOSTIC FIBREOPTIC ENDOSCOPIC EXAM/UPPER GASTROINTE UNSPECIFIED,G459
+4867356898,23/12/2020,No,Acute and subacute infective endocarditis,I330,19/01/2021,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4867753881,22/06/2020,No,Acute and subacute infective endocarditis,I330,24/06/2020,REVISION OF PROSTHESIS OF THORACIC AORTA                    ,L221
+4867765051,23/06/2017,No,Acute and subacute infective endocarditis,I330,25/06/2017,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4867765051,23/06/2017,No,Acute and subacute infective endocarditis,I330,05/07/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4867813884,17/09/2017,No,Acute and subacute infective endocarditis,I330,22/09/2017,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4867831062,04/04/2020,No,Acute and subacute infective endocarditis,I330,05/04/2020,COMPUTED TOMOGRAPHY NEC                                     ,U212
+4867831062,04/04/2020,No,Acute and subacute infective endocarditis,I330,15/04/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4867831062,04/04/2020,No,Acute and subacute infective endocarditis,I330,23/04/2020,AORTIC VALVE REPAIR NEC                                     ,K265
+4868015339,01/08/2018,No,Acute and subacute infective endocarditis,I330,06/08/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4868018306,12/11/2020,No,Acute and subacute infective endocarditis,I330,18/11/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4868205227,08/11/2019,No,Acute and subacute infective endocarditis,I330,11/11/2019,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+4868349000,02/04/2018,No,Acute and subacute infective endocarditis,I330,05/04/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4868349000,02/04/2018,No,Acute and subacute infective endocarditis,I330,11/04/2018,MITRAL VALVE REPAIR NEC                                     ,K255
+4868349000,30/04/2018,No,Acute and subacute infective endocarditis,I330,06/05/2018,DRESSING OF SKIN USING VACUUM ASSISTED CLOSURE DEVICE NEC   ,S577
+4868349000,03/06/2019,No,Acute and subacute infective endocarditis,I330,07/06/2019,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4868349000,03/06/2019,No,Acute and subacute infective endocarditis,I330,06/06/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4868349000,03/06/2019,No,Acute and subacute infective endocarditis,I330,18/06/2019,COMPUTED TOMOGRAPHY NEC                                     ,U212
+4868349000,24/06/2019,No,Acute and subacute infective endocarditis,I330,21/08/2019,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+4868776267,03/07/2018,No,Acute and subacute infective endocarditis,I330,16/07/2018,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4868776267,03/07/2018,No,Acute and subacute infective endocarditis,I330,31/07/2018,AORTIC ROOT REPLACEMENT USING MECHANICAL PROSTHESIS         ,K334
+4868879767,13/05/2018,No,Acute and subacute infective endocarditis,I330,14/05/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4868879767,13/05/2018,No,Acute and subacute infective endocarditis,I330,15/05/2018,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+4869404199,04/02/2019,No,Acute and subacute infective endocarditis,I330,05/02/2019,MITRAL VALVE REPAIR NEC                                     ,K255
+4869693554,26/01/2021,No,Acute and subacute infective endocarditis,I330,01/03/2021,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4880299433,15/12/2019,No,Acute and subacute infective endocarditis,I330,20/12/2019,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+4880299433,15/12/2019,No,Acute and subacute infective endocarditis,I330,19/12/2019,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4880395076,10/01/2020,No,Acute and subacute infective endocarditis,I330,24/01/2020,AORTIC VALVE REPAIR NEC                                     ,K265
+4880395076,05/11/2020,No,Acute and subacute infective endocarditis,I330,12/11/2020,AORTIC ROOT REPLACEMENT NEC                                 ,K335
+4880413635,17/03/2017,No,Acute and subacute infective endocarditis,I330,19/03/2017,NON-INVASIVE VENTILATION NEC                                ,E852
+4880413635,30/03/2017,No,Acute and subacute infective endocarditis,I330,03/04/2017,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4880413635,30/03/2017,No,Acute and subacute infective endocarditis,I330,05/04/2017,COMPUTED TOMOGRAPHY NEC                                     ,U212
+4880413635,30/03/2017,No,Acute and subacute infective endocarditis,I330,03/05/2017,MAGNETIC RESONANCE IMAGING OF HEAD                          ,U052
+4880413635,30/03/2017,No,Acute and subacute infective endocarditis,I330,09/05/2017,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+4880413635,30/03/2017,No,Acute and subacute infective endocarditis,I330,24/05/2017,ATTENTION TO CENTRAL VENOUS CATHETER NEC                    ,L913
+4880413635,30/03/2017,No,Acute and subacute infective endocarditis,I330,31/05/2017,DELIVERY OF REHABILITATION FOR ACUTE CARDIAC DISORDERS      ,U541
+4880802054,18/02/2020,No,Acute and subacute infective endocarditis,I330,25/02/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4880802054,18/02/2020,No,Acute and subacute infective endocarditis,I330,03/03/2020,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4880802054,30/03/2020,No,Acute and subacute infective endocarditis,I330,09/04/2020,DELIVERY OF REHABILITATION FOR ACUTE CARDIAC DISORDERS      ,U541
+4880802054,17/06/2020,No,Acute and subacute infective endocarditis,I330,25/06/2020,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4880802054,17/06/2020,No,Acute and subacute infective endocarditis,I330,27/06/2020,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+4881028565,13/02/2018,No,Acute and subacute infective endocarditis,I330,15/02/2018,COMPUTED TOMOGRAPHY OF PULMONARY ARTERIES                   ,U354
+4881125374,26/08/2019,No,Acute and subacute infective endocarditis,I330,29/08/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4882334155,18/01/2019,No,Acute and subacute infective endocarditis,I330,20/01/2019,COMPUTED TOMOGRAPHY SCAN OF CEREBRAL VESSELS                ,U114
+4882334155,18/01/2019,No,Acute and subacute infective endocarditis,I330,24/01/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4882447909,13/02/2017,No,Acute and subacute infective endocarditis,I330,15/02/2017,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4882447909,09/03/2017,No,Acute and subacute infective endocarditis,I330,21/03/2017,AORTIC ROOT REPLACEMENT NEC                                 ,K335
+4882778889,09/11/2018,No,Acute and subacute infective endocarditis,I330,11/11/2018,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4888961852,30/09/2020,No,Acute and subacute infective endocarditis,I330,05/10/2020,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4888961852,30/09/2020,No,Acute and subacute infective endocarditis,I330,16/10/2020,REPLACEMENT OF VALVED CARDIAC CONDUIT                       ,K187
+4900207040,22/05/2020,No,Acute and subacute infective endocarditis,I330,02/06/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4900207040,02/09/2020,No,Acute and subacute infective endocarditis,I330,04/09/2020,CREATION OF VALVED CONDUIT BETWEEN LEFT VENTRICLE OF HEART  ,K184
+4900207040,14/09/2020,No,Acute and subacute infective endocarditis,I330,16/09/2020,CONTINUOUS POSITIVE AIRWAY PRESSURE                         ,E856
+4903192265,29/07/2020,No,Acute and subacute infective endocarditis,I330,15/09/2020,IMPLANTATION OF CARDIOVERTER DEFIBRILLATOR USING TWO ELECTRO,K592
+4906638825,30/03/2017,No,Acute and subacute infective endocarditis,I330,06/04/2017,ALLOGRAFT REPLACEMENT OF PULMONARY VALVE                    ,K281
+4906638825,30/03/2017,No,Acute and subacute infective endocarditis,I330,04/04/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4906901844,07/10/2020,No,Acute and subacute infective endocarditis,I330,08/10/2020,AORTIC ROOT REPLACEMENT USING HOMOGRAFT                     ,K333
+4906996786,15/06/2020,No,Acute and subacute infective endocarditis,I330,18/06/2020,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+4906996786,15/06/2020,No,Acute and subacute infective endocarditis,I330,01/07/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4908178379,10/04/2019,No,Acute and subacute infective endocarditis,I330,18/04/2019,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4909087773,04/11/2020,No,Acute and subacute infective endocarditis,I330,06/11/2020,REPAIR OF PULMONARY ARTERY USING PATCH                      ,L102
+4909087773,04/11/2020,No,Acute and subacute infective endocarditis,I330,12/11/2020,DRAINAGE OF PERICARDIUM UNSPECIFIED,K689
+4909102233,02/01/2020,No,Acute and subacute infective endocarditis,I330,04/01/2020,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+4909239646,10/03/2020,No,Acute and subacute infective endocarditis,I330,14/03/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4909375426,18/12/2017,No,Acute and subacute infective endocarditis,I330,27/12/2017,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4909375426,18/12/2017,No,Acute and subacute infective endocarditis,I330,05/01/2018,INSERTION OF TUBE DRAIN INTO PLEURAL CAVITY                 ,T124
+4920487569,14/10/2018,No,Acute and subacute infective endocarditis,I330,15/10/2018,NON-INVASIVE VENTILATION NEC                                ,E852
+4920487569,14/10/2018,No,Acute and subacute infective endocarditis,I330,16/10/2018,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+4920616294,29/06/2017,No,Acute and subacute infective endocarditis,I330,30/06/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4920616294,29/06/2017,No,Acute and subacute infective endocarditis,I330,04/07/2017,COMPUTED TOMOGRAPHY OF PULMONARY ARTERIES                   ,U354
+4920616294,13/07/2017,No,Acute and subacute infective endocarditis,I330,15/07/2017,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4924777076,17/05/2020,No,Acute and subacute infective endocarditis,I330,01/06/2020,CORONARY ARTERIOGRAPHY NEC                                  ,K636
+4924777076,17/05/2020,No,Acute and subacute infective endocarditis,I330,28/05/2020,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4924777076,17/05/2020,No,Acute and subacute infective endocarditis,I330,20/05/2020,COMPUTED TOMOGRAPHY NEC                                     ,U212
+4924777076,17/05/2020,No,Acute and subacute infective endocarditis,I330,03/06/2020,MITRAL VALVE REPAIR NEC                                     ,K255
+4927400720,12/05/2019,No,Acute and subacute infective endocarditis,I330,15/05/2019,DRAINAGE OF LESION OF SKIN NEC                              ,S472
+4927400720,12/05/2019,No,Acute and subacute infective endocarditis,I330,10/06/2019,FIBRINOLYTIC DRUGS BAND 1                                   ,X833
+4927400720,12/05/2019,No,Acute and subacute infective endocarditis,I330,21/05/2019,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4927400720,27/08/2019,No,Acute and subacute infective endocarditis,I330,29/08/2019,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4927400720,27/08/2019,No,Acute and subacute infective endocarditis,I330,12/09/2019,COMPUTED TOMOGRAPHY OF HEAD                                 ,U051
+4928633947,02/07/2020,No,Acute and subacute infective endocarditis,I330,29/07/2020,COMPUTED TOMOGRAPHY OF HEAD                                 ,U051
+4928671391,14/05/2017,Yes,Acute and subacute infective endocarditis,I330,26/05/2017,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+4928671391,14/05/2017,Yes,Acute and subacute infective endocarditis,I330,23/05/2017,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4949520939,03/05/2018,No,Acute and subacute infective endocarditis,I330,08/05/2018,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4964805461,28/06/2018,No,Acute and subacute infective endocarditis,I330,04/07/2018,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+4964805461,28/06/2018,No,Acute and subacute infective endocarditis,I330,13/07/2018,INSERTION OF TUBE DRAIN INTO PLEURAL CAVITY                 ,T124
+4981043132,30/08/2017,No,Acute and subacute infective endocarditis,I330,01/09/2017,MITRAL VALVE REPAIR NEC                                     ,K255
+4986686387,19/12/2017,No,Acute and subacute infective endocarditis,I330,18/01/2018,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4986686387,19/12/2017,No,Acute and subacute infective endocarditis,I330,28/12/2017,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+4988362500,03/08/2018,No,Acute and subacute infective endocarditis,I330,08/08/2018,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+4993199693,30/04/2020,No,Acute and subacute infective endocarditis,I330,09/05/2020,CONTINUOUS POSITIVE AIRWAY PRESSURE                         ,E856
+4993199693,30/04/2020,No,Acute and subacute infective endocarditis,I330,01/05/2020,INVASIVE VENTILATION                                        ,E851
+4993199693,30/04/2020,No,Acute and subacute infective endocarditis,I330,03/06/2020,ASPIRATION OF JOINT                                         ,W901
+4993199693,30/04/2020,No,Acute and subacute infective endocarditis,I330,23/05/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+4994554087,30/03/2020,No,Acute and subacute infective endocarditis,I330,31/03/2020,COMPUTED TOMOGRAPHY OF HEAD                                 ,U051
+4994554087,07/05/2020,Yes,Acute and subacute infective endocarditis,I330,11/05/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+4994554087,07/05/2020,Yes,Acute and subacute infective endocarditis,I330,08/05/2020,CONTINUOUS POSITIVE AIRWAY PRESSURE                         ,E856
+4997694103,12/06/2017,Yes,Acute and subacute infective endocarditis,I330,14/06/2017,EXTERNAL VENTRICULAR DEFIBRILLATION                         ,X504
+6001302228,14/11/2019,No,Acute and subacute infective endocarditis,I330,18/11/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6001302228,02/12/2019,No,Acute and subacute infective endocarditis,I330,12/12/2019,COMPUTED TOMOGRAPHY OF CHEST                                ,U071
+6001302228,01/01/2020,No,Acute and subacute infective endocarditis,I330,03/01/2020,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+6001302228,01/01/2020,No,Acute and subacute infective endocarditis,I330,08/01/2020,COMPUTED TOMOGRAPHY OF CHEST                                ,U071
+6012887314,28/10/2019,No,Acute and subacute infective endocarditis,I330,30/10/2019,MITRAL VALVE REPAIR NEC                                     ,K255
+6041816648,22/02/2018,No,Acute and subacute infective endocarditis,I330,08/03/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6046533051,27/11/2019,No,Acute and subacute infective endocarditis,I330,09/01/2020,PERCUTANEOUS TRANSLUMINAL ABLATION OF ATRIAL WALL NEC       ,K575
+6066395061,03/02/2019,No,Acute and subacute infective endocarditis,I330,04/02/2019,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+6080304736,04/04/2017,Yes,Acute and subacute infective endocarditis,I330,05/04/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6080304736,04/04/2017,Yes,Acute and subacute infective endocarditis,I330,05/04/2017,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+6085704163,26/12/2018,No,Acute and subacute infective endocarditis,I330,28/12/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6085704163,26/12/2018,No,Acute and subacute infective endocarditis,I330,07/01/2019,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+6085704163,26/12/2018,No,Acute and subacute infective endocarditis,I330,09/01/2019,AORTIC ROOT REPLACEMENT USING HOMOGRAFT                     ,K333
+6088483637,06/01/2020,No,Acute and subacute infective endocarditis,I330,14/01/2020,CARDIAC COMPUTED TOMOGRAPHY ANGIOGRAPHY                     ,U102
+6088483637,06/01/2020,No,Acute and subacute infective endocarditis,I330,20/01/2020,ALLOGRAFT REPLACEMENT OF PULMONARY VALVE                    ,K281
+6101474716,11/08/2019,No,Acute and subacute infective endocarditis,I330,15/08/2019,ANASTOMOSIS OF MAMMARY ARTERY TO LEFT ANTERIOR DESCENDING CO,K453
+6106162181,29/04/2019,No,Acute and subacute infective endocarditis,I330,30/04/2019,OPERATIONS ON AORTIC ROOT OTHER SPECIFIED,K338
+6106162181,29/04/2019,No,Acute and subacute infective endocarditis,I330,08/05/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6108137502,31/10/2019,No,Acute and subacute infective endocarditis,I330,07/11/2019,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+6108338489,16/07/2018,No,Acute and subacute infective endocarditis,I330,26/07/2018,REPLACEMENT OF ANEURYSMAL SEGMENT OF ASCENDING AORTA BY ANAS,L191
+6121508589,20/01/2017,Yes,Acute and subacute infective endocarditis,I330,23/01/2017,COMPUTED TOMOGRAPHY NEC                                     ,U212
+6121716917,14/07/2020,No,Acute and subacute infective endocarditis,I330,16/07/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+6121716917,14/07/2020,No,Acute and subacute infective endocarditis,I330,19/07/2020,AORTIC VALVE REPAIR NEC                                     ,K265
+6121716917,14/07/2020,No,Acute and subacute infective endocarditis,I330,07/08/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6121746762,17/03/2020,No,Acute and subacute infective endocarditis,I330,18/03/2020,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+6122034731,26/03/2019,No,Acute and subacute infective endocarditis,I330,28/03/2019,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+6122034731,26/03/2019,No,Acute and subacute infective endocarditis,I330,07/04/2019,INSERTION OF CENTRAL VENOUS CATHETER NEC                    ,L912
+6122077945,05/08/2018,No,Acute and subacute infective endocarditis,I330,12/09/2018,IMPLANT. OF INTRAV. BIVENTRICULAR CARDIAC PACEMAKER SYSTEM  ,K607
+6122146788,26/03/2018,No,Acute and subacute infective endocarditis,I330,06/04/2018,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+6122161954,05/11/2020,No,Acute and subacute infective endocarditis,I330,10/11/2020,REVISION OF PLASTIC REPAIR OF AORTIC VALVE                  ,K302
+6122193910,09/04/2020,No,Acute and subacute infective endocarditis,I330,12/04/2020,CONTINUOUS POSITIVE AIRWAY PRESSURE                         ,E856
+6122193910,09/04/2020,No,Acute and subacute infective endocarditis,I330,19/04/2020,INSERTION OF CENTRAL VENOUS CATHETER NEC                    ,L912
+6122193910,09/04/2020,No,Acute and subacute infective endocarditis,I330,23/04/2020,MITRAL VALVE REPAIR NEC                                     ,K255
+6122488333,11/09/2017,No,Acute and subacute infective endocarditis,I330,25/09/2017,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+6122506102,04/08/2019,No,Acute and subacute infective endocarditis,I330,07/08/2019,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+6123658526,24/05/2018,Yes,Acute and subacute infective endocarditis,I330,29/05/2018,COMPUTED TOMOGRAPHY NEC                                     ,U212
+6124778576,12/07/2017,No,Acute and subacute infective endocarditis,I330,04/09/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6124778576,12/07/2017,No,Acute and subacute infective endocarditis,I330,21/07/2017,CHANGE OF URETHRAL CATHETER INTO BLADDER                    ,M472
+6124778576,12/07/2017,No,Acute and subacute infective endocarditis,I330,25/07/2017,CARDIAC COMPUTED TOMOGRAPHY ANGIOGRAPHY                     ,U102
+6124778576,12/07/2017,No,Acute and subacute infective endocarditis,I330,07/08/2017,REVISION OF PLASTIC REPAIR OF AORTIC VALVE                  ,K302
+6125585890,06/02/2021,No,Acute and subacute infective endocarditis,I330,08/02/2021,CORONARY ARTERIOGRAPHY NEC                                  ,K636
+6125585890,06/02/2021,No,Acute and subacute infective endocarditis,I330,15/02/2021,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+6125659039,03/07/2019,No,Acute and subacute infective endocarditis,I330,09/07/2019,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+6125698393,07/02/2017,No,Acute and subacute infective endocarditis,I330,08/02/2017,CORONARY ARTERIOGRAPHY USING TWO CATHETERS                  ,K634
+6125698393,07/02/2017,No,Acute and subacute infective endocarditis,I330,09/02/2017,XENOGRAFT REPLACEMENT OF MITRAL VALVE                       ,K252
+6125698393,07/02/2017,No,Acute and subacute infective endocarditis,I330,20/02/2017,IMPLANT. OF INTRAV. DUAL CHAMBER CARDIAC PACEMAKER SYSTEM   ,K606
+6125698393,07/02/2017,No,Acute and subacute infective endocarditis,I330,21/02/2017,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+6126729683,14/03/2020,Yes,Acute and subacute infective endocarditis,I330,24/03/2020,INVASIVE VENTILATION                                        ,E851
+6129108552,15/06/2020,Yes,Acute and subacute infective endocarditis,I330,17/06/2020,REPLACEMENT OF ANEURYSMAL SEGMENT OF ASCENDING AORTA BY ANAS,L191
+6148447777,17/10/2020,Yes,Acute and subacute infective endocarditis,I330,05/11/2020,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+6148447777,17/10/2020,Yes,Acute and subacute infective endocarditis,I330,11/12/2020,REHABILITATION FOR OTHER DISORDERS OTHER SPECIFIED,U548
+6148447777,17/10/2020,Yes,Acute and subacute infective endocarditis,I330,16/12/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+6161113256,03/04/2019,No,Acute and subacute infective endocarditis,I330,05/04/2019,FIBREOPTIC ENDOSCOPIC CAUTERISATION OF LESION OF UPPER GASTR,G433
+6161113256,03/04/2019,No,Acute and subacute infective endocarditis,I330,03/05/2019,REMOVAL OF CARDIOVERTER DEFIBRILLATOR                       ,K595
+6163260547,30/04/2018,No,Acute and subacute infective endocarditis,I330,22/05/2018,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+6168411422,02/07/2020,No,Acute and subacute infective endocarditis,I330,08/07/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+6168411422,02/07/2020,No,Acute and subacute infective endocarditis,I330,10/08/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6202693553,05/06/2019,No,Acute and subacute infective endocarditis,I330,07/06/2019,REMOVAL OF INTRAVENOUS CARDIAC PACEMAKER SYSTEM             ,K604
+6202693553,05/06/2019,No,Acute and subacute infective endocarditis,I330,14/06/2019,PERCUTANEOUS TRANSLUMINAL EMBOLECTOMY OF PULMONARY ARTERY   ,L131
+6202693553,08/12/2019,No,Acute and subacute infective endocarditis,I330,09/12/2019,XENOGRAFT REPLACEMENT OF TRICUSPID VALVE                    ,K272
+6241780817,13/04/2017,No,Acute and subacute infective endocarditis,I330,08/05/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6241780817,13/04/2017,No,Acute and subacute infective endocarditis,I330,20/05/2017,FIBREOPTIC ENDOSCOPIC REMOVAL OF FOREIGN BODY FROM UPPER GAS,G442
+6243018532,31/12/2018,No,Acute and subacute infective endocarditis,I330,02/01/2019,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+6243018532,31/12/2018,No,Acute and subacute infective endocarditis,I330,26/01/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6243018532,31/12/2018,No,Acute and subacute infective endocarditis,I330,07/01/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6248714267,09/09/2017,No,Acute and subacute infective endocarditis,I330,19/09/2017,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+6248714267,09/09/2017,No,Acute and subacute infective endocarditis,I330,12/09/2017,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+6248714267,09/09/2017,No,Acute and subacute infective endocarditis,I330,26/09/2017,REPLACEMENT OF ANEURYSMAL SEGMENT OF ASCENDING AORTA BY ANAS,L191
+6250058094,29/07/2019,No,Acute and subacute infective endocarditis,I330,31/07/2019,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+6260787425,10/12/2017,No,Acute and subacute infective endocarditis,I330,11/12/2017,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+6260787425,12/12/2017,No,Acute and subacute infective endocarditis,I330,15/12/2017,COMPUTED TOMOGRAPHY NEC                                     ,U212
+6260787425,01/02/2018,No,Acute and subacute infective endocarditis,I330,05/02/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6260787425,01/02/2018,No,Acute and subacute infective endocarditis,I330,02/02/2018,CARDIAC COMPUTED TOMOGRAPHY ANGIOGRAPHY                     ,U102
+6260787425,01/02/2018,No,Acute and subacute infective endocarditis,I330,28/02/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6260787425,01/02/2018,No,Acute and subacute infective endocarditis,I330,08/02/2018,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+6261953752,06/01/2020,No,Acute and subacute infective endocarditis,I330,11/01/2020,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+6262469420,06/08/2020,No,Acute and subacute infective endocarditis,I330,13/08/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6268014166,23/05/2020,No,Acute and subacute infective endocarditis,I330,02/06/2020,AORTIC VALVE REPAIR NEC                                     ,K265
+6268014166,23/05/2020,No,Acute and subacute infective endocarditis,I330,26/05/2020,COMPUTED TOMOGRAPHY NEC                                     ,U212
+6268964269,01/05/2017,No,Acute and subacute infective endocarditis,I330,03/05/2017,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+6268964269,01/05/2017,No,Acute and subacute infective endocarditis,I330,10/05/2017,DECOMPRESSION OF CARDIAC TAMPONADE                          ,K681
+6287719935,10/01/2017,No,Acute and subacute infective endocarditis,I330,12/01/2017,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+6304908319,03/05/2020,No,Acute and subacute infective endocarditis,I330,14/05/2020,XENOGRAFT REPLACEMENT OF AORTIC VALVE                       ,K262
+6325831970,04/04/2017,No,Acute and subacute infective endocarditis,I330,21/04/2017,CORONARY ARTERIOGRAPHY USING TWO CATHETERS                  ,K634
+6325831970,04/04/2017,No,Acute and subacute infective endocarditis,I330,08/05/2017,MITRAL VALVE REPAIR NEC                                     ,K255
+6331449427,11/05/2017,No,Acute and subacute infective endocarditis,I330,19/05/2017,SIMPLE EXTRACTION OF TOOTH UNSPECIFIED,F109
+6341993734,29/12/2018,No,Acute and subacute infective endocarditis,I330,03/01/2019,PERCUTANEOUS TRANSLUM BALLOON ANGIOPLASTY INS 1-2 DRUG      ,K751
+6344130850,10/10/2019,No,Acute and subacute infective endocarditis,I330,13/11/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6362869765,05/06/2018,No,Acute and subacute infective endocarditis,I330,03/07/2018,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+6369030693,07/10/2018,No,Acute and subacute infective endocarditis,I330,14/11/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6369030693,07/10/2018,No,Acute and subacute infective endocarditis,I330,02/11/2018,EVISCERATION OF EYE                                         ,C013
+6369030693,07/10/2018,No,Acute and subacute infective endocarditis,I330,26/10/2018,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6369030693,07/10/2018,No,Acute and subacute infective endocarditis,I330,10/10/2018,VITRECTOMY USING PARS PLANA APPROACH                        ,C792
+6384890748,26/05/2018,No,Acute and subacute infective endocarditis,I330,28/05/2018,COMPUTED TOMOGRAPHY NEC                                     ,U212
+6386695376,09/10/2019,No,Acute and subacute infective endocarditis,I330,10/10/2019,MITRAL VALVE REPAIR NEC                                     ,K255
+6393870870,25/05/2018,No,Acute and subacute infective endocarditis,I330,05/06/2018,AORTIC ROOT REPLACEMENT NEC                                 ,K335
+6444601502,19/11/2020,No,Acute and subacute infective endocarditis,I330,24/11/2020,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+6458470804,10/05/2020,No,Acute and subacute infective endocarditis,I330,15/05/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+6471175395,28/05/2020,No,Acute and subacute infective endocarditis,I330,29/05/2020,INVASIVE VENTILATION                                        ,E851
+6471175395,28/05/2020,No,Acute and subacute infective endocarditis,I330,30/05/2020,REPLACEMENT OF VALVED CARDIAC CONDUIT                       ,K187
+6481561853,12/04/2017,No,Acute and subacute infective endocarditis,I330,20/04/2017,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+6481561853,22/05/2017,No,Acute and subacute infective endocarditis,I330,23/05/2017,COMPUTED TOMOGRAPHY NEC                                     ,U212
+6493193706,19/02/2019,No,Acute and subacute infective endocarditis,I330,26/02/2019,ALLOGRAFT REPLACEMENT OF PULMONARY VALVE                    ,K281
+6493193706,19/02/2019,No,Acute and subacute infective endocarditis,I330,25/02/2019,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+6514823312,30/11/2018,Yes,Acute and subacute infective endocarditis,I330,02/12/2018,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+7001447359,09/11/2020,No,Acute and subacute infective endocarditis,I330,11/11/2020,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+7001447359,19/11/2020,No,Acute and subacute infective endocarditis,I330,21/11/2020,AORTIC ROOT REPLACEMENT USING HOMOGRAFT                     ,K333
+7012804247,06/05/2019,No,Acute and subacute infective endocarditis,I330,13/05/2019,ALLOGRAFT REPLACEMENT OF PULMONARY VALVE                    ,K281
+7062705342,17/04/2020,No,Acute and subacute infective endocarditis,I330,19/04/2020,COMPUTED TOMOGRAPHY NEC                                     ,U212
+7062705342,17/04/2020,No,Acute and subacute infective endocarditis,I330,30/04/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+7062705342,17/04/2020,No,Acute and subacute infective endocarditis,I330,14/05/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+7062705342,17/04/2020,No,Acute and subacute infective endocarditis,I330,25/04/2020,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+7085021927,04/04/2020,No,Acute and subacute infective endocarditis,I330,08/04/2020,MAGNETIC RESONANCE IMAGING NEC                              ,U211
+7085021927,04/04/2020,No,Acute and subacute infective endocarditis,I330,15/04/2020,DEBRIDEMENT OF SKIN NEC                                     ,S571
+7085021927,04/04/2020,No,Acute and subacute infective endocarditis,I330,18/04/2020,AORTIC VALVE REPAIR NEC                                     ,K265
+7085021927,04/04/2020,No,Acute and subacute infective endocarditis,I330,09/05/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+7133269717,03/01/2017,No,Acute and subacute infective endocarditis,I330,04/01/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+7133269717,03/01/2017,No,Acute and subacute infective endocarditis,I330,04/01/2017,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+7137684843,25/02/2019,No,Acute and subacute infective endocarditis,I330,27/02/2019,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+7137684843,25/02/2019,No,Acute and subacute infective endocarditis,I330,26/02/2019,PROSTHETIC REPLACEMENT OF MITRAL VALVE                      ,K253
+7140414053,19/12/2019,No,Acute and subacute infective endocarditis,I330,03/01/2020,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+7143406523,22/02/2017,No,Acute and subacute infective endocarditis,I330,06/03/2017,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+7143406523,22/02/2017,No,Acute and subacute infective endocarditis,I330,24/02/2017,PROSTHETIC REPLACEMENT OF AORTIC VALVE                      ,K263
+7148848489,27/07/2019,No,Acute and subacute infective endocarditis,I330,30/07/2019,TRANSOESOPHAGEAL ECHOCARDIOGRAPHY                           ,U202
+7148848489,27/07/2019,No,Acute and subacute infective endocarditis,I330,02/08/2019,MITRAL VALVE REPAIR NEC                                     ,K255
+7165324775,29/01/2019,No,Acute and subacute infective endocarditis,I330,03/02/2019,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+7165324775,29/01/2019,No,Acute and subacute infective endocarditis,I330,02/02/2019,EXCISION OF VEGETATIONS OF VALVE OF HEART                   ,K344
+7167658937,29/01/2017,No,Acute and subacute infective endocarditis,I330,30/01/2017,COMPUTED TOMOGRAPHY OF HEAD                                 ,U051
+7167658937,29/01/2017,No,Acute and subacute infective endocarditis,I330,02/02/2017,PERCUTANEOUS TRANSLUMINAL PERIPHERAL INSERTION OF CENTRAL CA,L997
+7167658937,29/01/2017,No,Acute and subacute infective endocarditis,I330,15/02/2017,MITRAL VALVE REPAIR NEC                                     ,K255
+7172838312,07/02/2019,No,Acute and subacute infective endocarditis,I330,08/03/2019,CREATION OF VENTRICULOPERITONEAL SHUNT                      ,A124
+7172838312,07/02/2019,No,Acute and subacute infective endocarditis,I330,11/02/2019,REPLACEMENT OF VALVED CARDIAC CONDUIT                       ,K187
+7195996046,13/04/2020,No,Acute and subacute infective endocarditis,I330,16/04/2020,OPEN REMOVAL OF CARDIAC VEGETATIONS NEC                     ,K554
+7195996046,13/04/2020,No,Acute and subacute infective endocarditis,I330,14/04/2020,TRANSTHORACIC ECHOCARDIOGRAPHY                              ,U201
+7217091806,23/01/2021,No,Acute and subacute infective endocarditis,I330,02/02/2021,CONTINUOUS POSITIVE AIRWAY PRESSURE                         ,E856
+7227225945,30/04/2020,No,Acute and subacute infective endocarditis,I330,01/05/2020,REMOVAL OF CENTRAL VENOUS CATHETER                          ,L914
+4781739362,01/04/2019,No,"Acute endocarditis, unspecified",I339,09/04/2019,DRAINAGE OF ASCITES NEC                                     ,T462

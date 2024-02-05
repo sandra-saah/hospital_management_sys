@@ -1,0 +1,565 @@
+UWE_NHS_Number,admission_date,date_of_death_dt,Diag_code,Description,SecondaryCode,SecondaryDesc,TOESScan,EchoScan
+4726496771,30/11/2016,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4722762407,07/12/2016,02/04/2017,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,N
+4600571766,25/12/2016,05/01/2017,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4722822755,02/01/2017,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,N,Y
+4781100310,03/01/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4725817008,03/01/2017,NULL,I339,"Acute endocarditis, unspecified",NULL,NULL,Y,Y
+4584965847,04/01/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4060199183,07/01/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4781100310,16/01/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4585029207,17/01/2017,03/04/2017,I330,Acute and subacute infective endocarditis,NULL,NULL,N,N
+4780335322,17/01/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4868270161,21/01/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4588981432,25/01/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+7143406523,02/02/2017,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,N,N
+4741477281,05/02/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4584965847,08/02/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4262409752,11/02/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+7125723749,11/02/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4541727839,12/02/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4466422056,14/02/2017,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,N,Y
+4721997950,15/02/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4362549699,16/02/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4720582908,22/02/2017,28/12/2019,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+6123686961,24/02/2017,16/09/2018,I330,Acute and subacute infective endocarditis,NULL,NULL,N,N
+4608278986,25/02/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4467240690,27/02/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4722589902,02/03/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+6325831970,05/03/2017,05/06/2017,I330,Acute and subacute infective endocarditis,NULL,NULL,N,N
+6289765810,06/03/2017,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,N,Y
+4725763865,12/03/2017,10/07/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4584536229,13/03/2017,24/05/2017,I330,Acute and subacute infective endocarditis,NULL,NULL,N,N
+4725809334,14/03/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4880349856,15/03/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+6102026474,19/03/2017,01/10/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4866540773,21/03/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4423510301,22/03/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4880413635,23/03/2017,06/02/2019,I330,Acute and subacute infective endocarditis,NULL,NULL,N,N
+4722854746,24/03/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4780946461,27/03/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4722850953,28/03/2017,06/12/2017,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+6047181294,31/03/2017,05/06/2017,I330,Acute and subacute infective endocarditis,NULL,NULL,N,N
+4780946461,08/04/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4809166442,11/04/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4721674612,12/04/2017,12/05/2017,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4869345308,20/04/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4541231860,26/04/2017,22/07/2018,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+6268964269,28/04/2017,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,N
+4600025017,30/04/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4722721393,01/05/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4780343023,04/05/2017,04/01/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4869404199,06/05/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4663779386,09/05/2017,08/08/2017,I330,Acute and subacute infective endocarditis,NULL,NULL,N,N
+4780968945,10/05/2017,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,N,Y
+4425485274,13/05/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4584595379,21/05/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4721624925,25/05/2017,20/03/2018,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4883337538,25/05/2017,13/03/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4721658908,27/05/2017,30/09/2017,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+6268964269,11/06/2017,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,N
+4404966311,15/06/2017,01/07/2017,I330,Acute and subacute infective endocarditis,NULL,NULL,N,N
+4722876553,22/06/2017,02/04/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4584595379,22/06/2017,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,N,Y
+4584595379,22/06/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4580613671,26/06/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+6008605668,29/06/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4580613671,01/07/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4780778321,04/07/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4642873857,10/07/2017,02/08/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4780128610,11/07/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4720991533,18/07/2017,19/04/2018,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4721648506,20/07/2017,16/01/2018,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4722061746,25/07/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4181681069,26/07/2017,05/10/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4880607289,26/07/2017,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,N,Y
+4720893081,28/07/2017,17/01/2020,I330,Acute and subacute infective endocarditis,NULL,NULL,Y,Y
+4722602402,31/07/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4600335450,05/08/2017,25/08/2017,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4721671637,07/08/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+6124700558,12/08/2017,17/03/2019,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4644778795,15/08/2017,03/10/2017,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4868217379,16/08/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4909377507,16/08/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4722015620,18/08/2017,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4723088888,27/08/2017,26/10/2017,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4644778795,09/09/2017,03/10/2017,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4302647225,10/09/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4721787929,12/09/2017,05/05/2019,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4926334681,19/09/2017,04/01/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4541133578,24/09/2017,01/06/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4722045387,01/10/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+6203000182,02/10/2017,14/03/2018,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4722045387,02/10/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4842514764,04/10/2017,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4420054976,04/10/2017,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,N,N
+4721656239,06/10/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4722015620,07/10/2017,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4541756537,09/10/2017,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,N,Y
+4721744586,10/10/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4549185876,11/10/2017,12/04/2021,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+6108959968,18/10/2017,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,N
+4584483101,21/10/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4842514764,24/10/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+6108938734,25/10/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4842514764,25/10/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,26/10/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,27/10/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,28/10/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,29/10/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4721624925,30/10/2017,20/03/2018,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4842514764,30/10/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4720991533,31/10/2017,19/04/2018,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4842514764,31/10/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,01/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,02/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,03/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,04/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4722564891,05/11/2017,29/10/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4842514764,05/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,06/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,07/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+6125890458,08/11/2017,30/03/2018,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4842514764,08/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,09/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,10/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,11/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,12/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,13/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,14/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4447105194,14/11/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4842514764,15/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,16/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,17/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4842514764,18/11/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4647459838,20/11/2017,06/10/2019,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+6123686961,26/11/2017,16/09/2018,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4467015853,29/11/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4447105194,29/11/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4580599048,01/12/2017,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,N,Y
+4909622415,13/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4923296651,13/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4923296651,14/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4923296651,15/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4923296651,16/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4721489351,17/12/2017,27/01/2018,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4680158817,17/12/2017,20/06/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4923296651,17/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4722782036,18/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4923296651,18/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4923296651,19/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4923296651,20/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4923296651,21/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+6065714740,22/12/2017,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4923296651,22/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4923296651,25/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4923296651,26/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4923296651,27/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4201319629,28/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4923296651,28/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4962818399,29/12/2017,17/05/2018,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4923296651,29/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4923296651,31/12/2017,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4883337538,05/01/2018,13/03/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4722643532,13/01/2018,09/04/2021,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4541584386,13/01/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4881028565,17/01/2018,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,Y,Y
+4864405801,19/01/2018,17/04/2018,I330,Acute and subacute infective endocarditis,NULL,NULL,Y,Y
+4864405801,19/01/2018,17/04/2018,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4405801723,27/01/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4720987374,28/01/2018,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,Y,Y
+6163248116,28/01/2018,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,Y,Y
+6185837661,04/02/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4085246155,10/02/2018,06/06/2018,I330,Acute and subacute infective endocarditis,NULL,NULL,N,Y
+4085246155,11/02/2018,06/06/2018,I330,Acute and subacute infective endocarditis,NULL,NULL,N,Y
+4502634108,11/02/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+6123679620,15/02/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4881090128,20/02/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+7163910650,03/03/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4925532263,06/03/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4721624925,08/03/2018,20/03/2018,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+6102026474,14/03/2018,01/10/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4726505851,15/03/2018,28/06/2019,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4226784692,18/03/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4629119190,25/03/2018,06/10/2018,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4722537171,26/03/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4208066799,02/04/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4720896979,11/04/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4447105194,14/04/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4902571308,15/04/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4907050379,01/05/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4868132362,03/05/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4726855329,06/05/2018,06/07/2018,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4480121130,06/05/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4447105194,06/05/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4820606100,08/05/2018,24/08/2018,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+6149227972,14/05/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4869157334,15/05/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4541316343,16/05/2018,13/06/2018,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4584413583,28/05/2018,14/11/2018,I398,"Endocarditis, valve unspecified, in diseases classified elsewhere",B376,Candidal endocarditis,N,Y
+4208044504,05/06/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4721892186,07/06/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4010244171,09/06/2018,15/06/2018,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4722564891,09/06/2018,29/10/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4900270384,14/06/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+6108338489,19/06/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4020629691,23/06/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4721564938,24/06/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4721135401,07/07/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4584295019,10/07/2018,15/01/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4250089658,14/07/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4582533160,17/07/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4722013814,17/07/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4588994868,22/07/2018,26/05/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4007541012,23/07/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4541392519,24/07/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4701584030,26/07/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4065164331,28/07/2018,04/08/2018,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4065164331,28/07/2018,04/08/2018,I778,Other specified disorders of arteries and arterioles,I330,Acute and subacute infective endocarditis,Y,Y
+4844855189,28/07/2018,14/03/2019,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4868888904,28/07/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4662008084,05/08/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4721404631,12/08/2018,08/01/2021,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+6042992132,23/08/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+6200722661,24/08/2018,12/09/2018,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4505837010,25/08/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+6123675590,26/08/2018,18/09/2018,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4882109321,27/08/2018,19/10/2018,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4302452254,02/09/2018,28/10/2018,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,N
+4722057005,05/09/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+6207283930,06/09/2018,16/09/2018,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4880177718,06/09/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4721867507,07/09/2018,12/12/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4600573904,08/09/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4061304074,13/09/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4527419602,16/09/2018,28/09/2018,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4182749595,18/09/2018,11/02/2021,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+7068334532,20/09/2018,19/06/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4783168443,20/09/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4721422098,22/09/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4881177377,23/09/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+6128646410,01/10/2018,06/02/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4541379709,02/10/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4643771438,06/10/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4843501313,09/10/2018,15/04/2019,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4726368811,12/10/2018,03/03/2019,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4541446449,17/10/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4725711617,19/10/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+6125812751,21/10/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4107750845,26/10/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4725711617,03/11/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4725711617,06/11/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4541715213,08/11/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4881049978,09/11/2018,08/12/2018,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4725711617,09/11/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+6327130546,10/11/2018,04/07/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4725711617,12/11/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4725711617,12/11/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4629098667,13/11/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4722687284,13/11/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4205242647,14/11/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4725711617,15/11/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4725711617,18/11/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4725711617,21/11/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4726823764,24/11/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4725711617,24/11/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4725711617,27/11/2018,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4584443363,29/11/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4584345547,03/12/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4721680574,09/12/2018,24/06/2019,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4867948269,12/12/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4603155860,19/12/2018,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4722598340,21/12/2018,27/03/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4721744586,24/12/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4722880785,29/12/2018,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4721953217,06/01/2019,04/03/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+6123312317,07/01/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+6126744299,07/01/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4600573904,20/01/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4102977685,21/01/2019,19/10/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4580545258,23/01/2019,05/01/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4869404199,02/02/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4541812583,03/02/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4906255934,06/02/2019,05/03/2019,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4584933352,08/02/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4184577807,09/02/2019,10/04/2021,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4842660264,11/02/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+6183435213,24/02/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4722834710,26/02/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4725787136,28/02/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4842660264,28/02/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4523819889,05/03/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4726841579,07/03/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4548751371,11/03/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4584966226,12/03/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+7211244039,19/03/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+7211244039,19/03/2019,NULL,I778,Other specified disorders of arteries and arterioles,I330,Acute and subacute infective endocarditis,Y,Y
+4725780204,19/03/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4780003578,21/03/2019,09/04/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4868932954,23/03/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4721242983,25/03/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+6307723452,26/03/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4726809230,30/03/2019,23/06/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4726830345,30/03/2019,26/02/2021,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4722834710,31/03/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4542874943,04/04/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4880263064,10/04/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+6161258270,11/04/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,N
+4746347793,11/04/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4722834710,13/04/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4981203806,21/04/2019,04/01/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4780689140,23/04/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4967716036,27/04/2019,12/05/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4541166546,27/04/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4446510812,30/04/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4722526641,02/05/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4780644554,03/05/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,N
+4401296509,05/05/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4780495799,06/05/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4620615448,07/05/2019,14/11/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4722569502,11/05/2019,26/11/2019,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+7163910650,11/05/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4044456961,12/05/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4102977685,14/05/2019,19/10/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4620615448,14/05/2019,14/11/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+7163910650,14/05/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4780495799,15/05/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4881090128,16/05/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+7206150504,17/05/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4868677156,18/05/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+6125790170,19/05/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4250535952,20/05/2019,08/06/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4721684146,26/05/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4761474371,28/05/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4541317110,28/05/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4588964969,29/05/2019,24/08/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4808799972,01/06/2019,01/07/2019,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4123650768,04/06/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4585159267,04/06/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4746989021,05/06/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4722697926,07/06/2019,07/08/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4541706303,08/06/2019,12/09/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4721876363,11/06/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4867382012,16/06/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4868349000,17/06/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+6148346485,18/06/2019,25/05/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4781845378,18/06/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+6125790170,23/06/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4927400720,24/06/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4567312620,26/06/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4780644554,26/06/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,N
+4161473544,29/06/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4721573285,01/07/2019,22/12/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4401266896,01/07/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+6161678806,02/07/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+6124592006,02/07/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+7167787597,06/07/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4748206388,07/07/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4022010893,11/07/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4720804105,12/07/2019,20/10/2019,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4182749595,12/07/2019,11/02/2021,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+6122008234,12/07/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4869185532,13/07/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4506331985,14/07/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+6123683334,16/07/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4721964726,18/07/2019,13/08/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+6166634416,26/07/2019,14/10/2019,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4541382605,27/07/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4721990042,31/07/2019,07/05/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+6101856376,31/07/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4541812583,31/07/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4528953839,03/08/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4721990042,13/08/2019,07/05/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+6123683334,15/08/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4900582639,19/08/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+6140495176,20/08/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4726506195,28/08/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4246929526,05/09/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4869185532,05/09/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4722632382,06/09/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4580593271,09/09/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4965320580,11/09/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4883463234,12/09/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4941207142,17/09/2019,05/10/2019,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4042784592,18/09/2019,22/11/2019,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4869185532,22/09/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4720804105,23/09/2019,20/10/2019,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4720804105,23/09/2019,20/10/2019,I38X,"Endocarditis, valve unspecified",I330,Acute and subacute infective endocarditis,Y,Y
+4722687284,24/09/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4764367808,02/10/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4888838667,03/10/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4106861902,03/10/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+6122849212,05/10/2019,13/12/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4183142362,05/10/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4521062206,06/10/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4869245818,07/10/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4725476920,07/10/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4480579706,08/10/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4904895192,16/10/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4688539968,19/10/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4720892764,21/10/2019,03/12/2019,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4721647321,21/10/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4726507598,23/10/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+6001302228,11/11/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4880394754,12/11/2019,26/12/2019,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4541888134,12/11/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+6161724735,14/11/2019,13/08/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+6290207791,14/11/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4969124802,17/11/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4683340829,17/11/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+6141752977,19/11/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4543687907,21/11/2019,06/05/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+6240822152,22/11/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4781134223,22/11/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4721281505,25/11/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+6122426459,26/11/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4881090128,27/11/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4883463234,03/12/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4722601341,04/12/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4742593538,07/12/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4720992122,08/12/2019,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4720892373,10/12/2019,07/05/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4881171465,11/12/2019,21/02/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4880395076,20/12/2019,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4648958299,29/12/2019,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4869018601,30/12/2019,23/09/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4564583785,31/12/2019,13/08/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4869477417,01/01/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4869018601,02/01/2020,23/09/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4405487050,04/01/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4869018601,06/01/2020,23/09/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4489522162,06/01/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4869018601,08/01/2020,23/09/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4780497338,09/01/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4869018601,11/01/2020,23/09/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4869018601,13/01/2020,23/09/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4868932954,13/01/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4869018601,15/01/2020,23/09/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4869018601,18/01/2020,23/09/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4869018601,20/01/2020,23/09/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4869018601,22/01/2020,23/09/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4867948269,22/01/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4869018601,25/01/2020,23/09/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4722687284,26/01/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4869018601,27/01/2020,23/09/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4541157585,28/01/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4869018601,29/01/2020,23/09/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4869018601,01/02/2020,23/09/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4845891418,02/02/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4869018601,03/02/2020,23/09/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4880001458,03/02/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4880001458,03/02/2020,NULL,I38X,"Endocarditis, valve unspecified",I330,Acute and subacute infective endocarditis,N,Y
+4344426936,08/02/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4722017100,12/02/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4725480650,22/02/2020,24/12/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4600523605,26/02/2020,19/03/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4726788907,02/03/2020,27/05/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4584646930,03/03/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4721900124,06/03/2020,15/03/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4721996075,08/03/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4725759887,11/03/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4461190262,11/03/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+6102788331,16/03/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4824977561,21/03/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4522272344,26/03/2020,21/06/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4969243019,27/03/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4522272344,28/03/2020,21/06/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4522272344,30/03/2020,21/06/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4522272344,01/04/2020,21/06/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4522272344,03/04/2020,21/06/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+6123539395,03/04/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4563933988,03/04/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4522272344,05/04/2020,21/06/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4522272344,07/04/2020,21/06/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4522272344,09/04/2020,21/06/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4522272344,12/04/2020,21/06/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4522272344,14/04/2020,21/06/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4522272344,15/04/2020,21/06/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4184522107,20/04/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4541307506,01/05/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4721621551,03/05/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4743233570,08/05/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4722054518,13/05/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4180436992,15/05/2020,30/06/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+6162503031,19/05/2020,25/05/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4605025603,20/05/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4600280989,30/05/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4869341983,01/06/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4782381957,13/06/2020,05/04/2021,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4750687905,15/06/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+6290327667,17/06/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4868270161,17/06/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4720968426,19/06/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4880659871,22/06/2020,28/06/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+6329366016,25/06/2020,11/07/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4722840694,03/07/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4541679411,04/07/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4605121076,05/07/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4720926855,13/07/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4421157973,15/07/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+6124593622,20/07/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4866731226,24/07/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4605224355,26/07/2020,18/01/2021,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+7180629832,28/07/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4725619616,01/08/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4722770159,19/08/2020,25/10/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4866731226,22/08/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4584266898,23/08/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4580583330,08/09/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4722770159,09/09/2020,25/10/2020,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4721001658,12/09/2020,21/09/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,Y,Y
+4782381957,14/09/2020,05/04/2021,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+7062335804,24/09/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4881071304,24/09/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4721982546,27/09/2020,06/10/2020,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4722601341,01/10/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4722018368,10/10/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4869734714,11/10/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4722841946,12/10/2020,14/12/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4727784998,16/10/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4905753768,17/10/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4824796459,18/10/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4680851930,18/10/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4643418323,20/10/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4726783223,24/10/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4986686387,27/10/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4467690181,28/10/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4868270161,28/10/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4880395076,31/10/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4725787136,01/11/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4909028076,08/11/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+6125751736,10/11/2020,27/12/2020,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+6065005994,10/11/2020,17/01/2021,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4584682775,10/11/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+6123617110,14/11/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+4726509423,16/11/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4549192349,18/11/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4722737340,18/11/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4721689105,18/11/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+6008605668,21/11/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4781131882,22/11/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4869053105,25/11/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4965320580,26/11/2020,NULL,I398,"Endocarditis, valve unspecified, in diseases classified elsewhere",B376,Candidal endocarditis,Y,Y
+4208228133,29/11/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4986686387,01/12/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,N
+4721819912,02/12/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4440937733,02/12/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4867356898,05/12/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,N,Y
+4867356898,05/12/2020,NULL,I778,Other specified disorders of arteries and arterioles,I330,Acute and subacute infective endocarditis,N,Y
+4722643532,07/12/2020,09/04/2021,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,Y
+7185132994,08/12/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4722572775,08/12/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4721874131,11/12/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4047153765,11/12/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+6008605668,16/12/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4584362525,19/12/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y
+4541701700,19/12/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,N
+4086548406,21/12/2020,NULL,I778,Other specified disorders of arteries and arterioles,NULL,NULL,N,N
+4000545543,22/12/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4965320580,24/12/2020,NULL,I398,"Endocarditis, valve unspecified, in diseases classified elsewhere",NULL,NULL,Y,Y
+4000545543,25/12/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4869053105,26/12/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,N,Y
+4000545543,27/12/2020,NULL,I330,Acute and subacute infective endocarditis,I330,Acute and subacute infective endocarditis,Y,Y
+4965320580,28/12/2020,NULL,I330,Acute and subacute infective endocarditis,NULL,NULL,Y,Y
+4965320580,28/12/2020,NULL,I398,"Endocarditis, valve unspecified, in diseases classified elsewhere",NULL,NULL,Y,Y
+4000545543,29/12/2020,NULL,I38X,"Endocarditis, valve unspecified",NULL,NULL,Y,Y

@@ -1,0 +1,9 @@
+IE_diagnosis,UHB_diagnosis,NBT_diagnosis,BC_Count,UWE_NHS_Number,Surname,Forename,Date.of.Specimen,Source.PCG.Code,Source.Desc,Organism.Desc,Sample.Comments,Age
+1,FALSE,TRUE,1,6047181294,,,24/04/2017,NI,L5 GATE 28B WD,Streptococcus agalactiae ,peripheral venepuncture,90
+1,TRUE,TRUE,2,4864405801,,,20/01/2018,NI,NBT EMERGENCY DEPT,Beta Haemolytic Streptococcus Group B ,peripheral,58
+1,TRUE,FALSE,2,4227393705,,,24/09/2018,UI,CORONARY CARE UNIT (CCU),Streptococcus agalactiae ,peripheral blood,73
+1,FALSE,TRUE,1,4580545258,,,25/01/2019,NI,L3 GATE 7A WD,Beta Haemolytic Streptococcus Group B ,peripheral,61
+1,TRUE,FALSE,1,7208335288,,,31/05/2019,NI,SMH NEONATAL INTENSIVE CARE,Beta Haemolytic Streptococcus Group B ,peripheral,0
+1,FALSE,TRUE,1,4726788907,,,03/03/2020,NI,NBT EMERGENCY DEPT,Beta Haemolytic Streptococcus Group B ,peripheral,89
+1,FALSE,TRUE,2,4722054518,,,16/05/2020,NI,L1 GATE 32A WD,Beta Haemolytic Streptococcus Group B ,peripheral,84
+1,FALSE,TRUE,3,4722840694,,,05/07/2020,NI,NBT EMERGENCY DEPT,Beta Haemolytic Streptococcus Group B ,peripheral,77
